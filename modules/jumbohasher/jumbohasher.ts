@@ -19,7 +19,7 @@ export const jumbohasher = (filepath: string, cb): void => {
     }
 }
 
-gitexport const jumbohasher_sync = (() => {
+export const jumbohasher_sync = (() => {
     const swrap = sync(jumbohasher);
 
     return (filepath: string) => {

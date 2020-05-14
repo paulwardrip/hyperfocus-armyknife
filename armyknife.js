@@ -1,14 +1,14 @@
 {
     const activeshell = require("./modules/activeshell");
     const bytelength = require('./modules/bytelength');
-    const jumbohasher = require('./modules/jumbohasher/jumbohasher');
+    const jumbohasher = require('./modules/jumbohasher');
     const oneliner = require('./modules/oneliner');
 
-require('./modules/titlecase');
+    require('./modules/titlecase');
 
     global.Hyperfocus = {
 
-            activeshell, bytelength, jumbohasher, oneliner,
+        activeshell, bytelength, jumbohasher, oneliner,
 
         sandbox: {
             intervalbot: require('./sandbox/intervalbot/intervalbot'),
