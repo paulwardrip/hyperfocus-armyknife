@@ -1,0 +1,13 @@
+{
+  "name": "@hyperfocus/jumbohasher",
+  "version": "1.0.0",
+  "description": "Generates hashes for large files",
+  "main": "jumbohasher.ts",
+  "author": "BipolarBear <bipolarbear@hyperfocus.design>",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^13.13.4",
+    "crypto": "^1.0.1",
+    "synchronizer": "^0.1.0"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "@hyperfocus/armyknife",
+  "version": "1.0.0",
+  "description": "library consisting of tiny addons and enhancements to javascript that can be included by themselves or as a bundle.",
+  "main": "armyknife.js",
+  "author": "BipolarBear <bipolarbear@hyperfocus.design>",
+  "license": "ISC",
+  "dependencies": {
+    "node-build-number": "^0.2.2"
+  },
+  "build": {
+    "unique": "@hyperfocus/armyknife:v1.0.0[build:1]",
+    "number": 1,
+    "timestamp": "5/14/2020, 1:47:16 PM",
+    "git-user": "Paul Wardrip <pwardrip@gmail.com>",
+    "git-version": "2.22.0",
+    "node-version": "v12.4.0",
+    "computer": "FIELDYZERO",
+    "os": "Windows_NT",
+    "arch": "AMD64",
+    "user": "digit",
+    "uname": "MSYS_NT-10.0-19624"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name": "@hyperfocus/activeshell",
+  "version": "0.2.1",
+  "author": "BipolarBear <bipolarbear@hyperfocus.design>",
+  "description": "an asynchronous shell that receives step (exec, args) and provides listeners for stdout, stderr and exit",
+  "license": "ISC",
+  "main": "active-shell.js"
+
+}

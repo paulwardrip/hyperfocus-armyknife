@@ -1,0 +1,7 @@
+{
+  "name": "@hyperfocus/bytelength",
+  "version": "1.0.0",
+  "author": "BipolarBear <bipolarbear@hyperfocus.design>",
+  "license": "ISC",
+  "main": "bytelength.js"
+}
